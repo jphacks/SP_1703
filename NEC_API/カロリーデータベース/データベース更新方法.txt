@@ -1,0 +1,1 @@
+convert -geometry 20%x20 17.jpg 17.jpg
